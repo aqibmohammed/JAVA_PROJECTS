@@ -3,9 +3,12 @@
 where I used some Jlabels,textfield's,buttons.*
 
 
-<img src="https://github.com/aqibmohammed/Tic-Tac-Toe_java/blob/main/Screenshot%202023-09-19%20232741.png" alt=TictacToe width="250">
-![](https://github.com/aqibmohammed/Tic-Tac-Toe_java/blob/main/Screenshot%202023-09-19%20232741.png)
-*Game_Starts*<br/>
+<p align="center">
+  <img src="https://github.com/aqibmohammed/Tic-Tac-Toe_java/blob/main/Screenshot%202023-09-19%20232741.png" alt=TictacToe width="250">
+  <br>
+    <em>Game_Start's</em>
+</p>
+<br/>
 <figure class="image">
   <img src="https://github.com/aqibmohammed/Tic-Tac-Toe_java/blob/main/Screenshot%202023-09-19%20232806.png" alt="win conditon" width="250">
   <figcaption>Win Condition</figcaption>
